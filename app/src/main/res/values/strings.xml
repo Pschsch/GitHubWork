@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHubWork</string>
+    <string name="title_home">Repos</string>
+    <string name="title_create">Create User</string>
+    <string name="title_notifications">Upload Image</string>
+    <string name="failure">It was a motherf***ing failure!!!</string>
+    <string name="auth">Auth GitHub</string>
+    <string name="githubclientid">98249addf8378c6dc163</string>
+    <string name="githubclientsecret">8820f5fd50b99e9179b0bd577b6c1f9e2c60aa66</string>
+    <string name="urlcallback">pschsch://callback</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
